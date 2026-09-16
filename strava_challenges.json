@@ -1,402 +1,5 @@
 [
    {
-      "challenge_url": "https://www.strava.com/challenges/6268",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6268/6268-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6268/6268-logo.png",
-      "name": "adidas Find Your Fast",
-      "description": "Log three runs per week to complete the challenge and enjoy an adidas reward",
-      "time": "Aug 24, 2026 to Sep 20, 2026  —  4 days left",
-      "start_date": "Aug 24, 2026",
-      "status": "running",
-      "challenge_days": "28",
-      "task": "Complete 3 runs every week for 4 weeks",
-      "tags": [
-         "Run",
-         "Virtual Run",
-         "Wheelchair"
-      ],
-      "reward": "Complete the challenge and enjoy 20% off selected adidas Running styles!",
-      "club": "https://www.strava.com/clubs/1432394",
-      "participants": "47958"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6270",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6179/6179-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6270/6270-logo.png",
-      "name": "Find Your Stride with John Lewis - Liverpool",
-      "description": "Join our local challenge to unlock your rewards",
-      "time": "Aug 19, 2026 to Sep 19, 2026  —  3 days left",
-      "start_date": "Aug 19, 2026",
-      "status": "running",
-      "challenge_days": "32",
-      "task": "Complete the John Lewis Sefton Park segment to unlock your rewards",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Finish for 20% off John Lewis sports + your chance to win tickets to HYROX or the Barcelona Half. T\\u0026Cs apply.",
-      "participants": "15756"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6273",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6273/6273-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6273/6273-logo.png",
-      "name": "BRITA Own Your Clarity Segment Berlin26",
-      "description": "Run our Tempelhof segment for a chance to win a 2027 BMW BERLIN-MARATHON spot",
-      "time": "Sep 1, 2026 to Sep 30, 2026  —  14 days left",
-      "start_date": "Sep 1, 2026",
-      "status": "running",
-      "challenge_days": "30",
-      "task": "Complete the segment within September.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the segment in September 2026 for a chance to win an entry to the BMW BERLIN-MARATHON 2027.",
-      "club": "https://www.strava.com/clubs/1854940",
-      "participants": "9430"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6274",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6274/6274-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6274/6274-logo.png",
-      "name": "Biotherm Step Up Challenge",
-      "description": "Run 20K in 4 weeks and get a chance to win a Biotherm Skincare Kit",
-      "time": "Aug 22, 2026 to Sep 20, 2026  —  4 days left",
-      "start_date": "Aug 22, 2026",
-      "status": "running",
-      "challenge_days": "30",
-      "task": "Run 20K in 4 weeks",
-      "tags": [
-         "Hike",
-         "Run",
-         "Virtual Run",
-         "Walk",
-         "Wheelchair"
-      ],
-      "reward": "Complete this challenge to receive a finisher’s badge and get the opportunity to win a Biotherm Skincare Kit",
-      "club": "https://www.strava.com/clubs/1213710",
-      "participants": "65847"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6275",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6275/6275-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6275/6275-logo.png",
-      "name": "HOKA | Reach Your Peak",
-      "description": "Run 27 miles for a chance to win our pinnacle trail shoe: the Tecton X 4.",
-      "time": "Aug 24, 2026 to Sep 28, 2026  —  12 days left",
-      "start_date": "Aug 24, 2026",
-      "status": "running",
-      "challenge_days": "36",
-      "task": "Complete 27 Miles or More",
-      "tags": [
-         "Run",
-         "Trail Run"
-      ],
-      "reward": "Win a head-to-toe running kit, including the Tecton X 4.",
-      "club": "https://www.strava.com/clubs/76016",
-      "participants": "154029"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6278",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6278/6278-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6278/6278-logo.png",
-      "name": "Altra Stay Out There™ Summer Challenge",
-      "description": "Keep moving this summer and log 275 minutes of activity to unlock a reward.",
-      "time": "Aug 21, 2026 to Sep 18, 2026  —  2 days left",
-      "start_date": "Aug 21, 2026",
-      "status": "running",
-      "challenge_days": "29",
-      "task": "Complete 275 minutes of activity",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Challenge finishers earn 20% off Altra full-price product and a digital finishers badge.",
-      "participants": "136986"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6283",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6275/6275-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6283/6283-logo.png",
-      "name": "HOKA | Reach Your Peak - Auburn",
-      "description": "Run a legendary ultra course segment for a chance to win the Tecton X 4.",
-      "time": "Aug 24, 2026 to Sep 28, 2026  —  12 days left",
-      "start_date": "Aug 24, 2026",
-      "status": "running",
-      "challenge_days": "36",
-      "task": "Complete the Course Segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Win a head-to-toe running kit, including the Tecton X 4.",
-      "club": "https://www.strava.com/clubs/76016",
-      "participants": "3751"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6286",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6286/6286-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6286/6286-logo.png",
-      "name": "DENZA Signature Series: Sydney Segment",
-      "description": "Take on the Sydney Segment and earn the exclusive DENZA Segment badge",
-      "time": "Sep 1, 2026 to Sep 30, 2026  —  14 days left",
-      "start_date": "Sep 1, 2026",
-      "status": "running",
-      "challenge_days": "30",
-      "task": "Complete the DENZA Signature Segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the Segment to earn an exclusive digital DENZA Signature Series badge",
-      "participants": "12747"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6287",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6286/6286-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6287/6287-logo.png",
-      "name": "DENZA Signature Series: Melbourne Segment",
-      "description": "Take on the Melbourne Segment and earn the exclusive DENZA Segment badge",
-      "time": "Sep 1, 2026 to Sep 30, 2026  —  14 days left",
-      "start_date": "Sep 1, 2026",
-      "status": "running",
-      "challenge_days": "30",
-      "task": "Complete the DENZA Signature Segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the Segment to earn an exclusive digital DENZA Signature Series badge",
-      "participants": "11203"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6288",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6286/6286-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6288/6288-logo.png",
-      "name": "DENZA Signature Series: Brisbane Segment",
-      "description": "Take on the Brisbane Segment and earn the exclusive DENZA Segment badge",
-      "time": "Sep 1, 2026 to Sep 30, 2026  —  14 days left",
-      "start_date": "Sep 1, 2026",
-      "status": "running",
-      "challenge_days": "30",
-      "task": "Complete the DENZA Signature Segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the Segment to earn an exclusive digital DENZA Signature Series badge",
-      "participants": "8576"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6289",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6286/6286-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6289/6289-logo.png",
-      "name": "DENZA Signature Series: Perth Segment",
-      "description": "Take on the Perth Segment and earn the exclusive DENZA Segment badge",
-      "time": "Sep 1, 2026 to Sep 30, 2026  —  14 days left",
-      "start_date": "Sep 1, 2026",
-      "status": "running",
-      "challenge_days": "30",
-      "task": "Complete the DENZA Signature Segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the Segment to earn an exclusive digital Denza Signature Series badge",
-      "participants": "5360"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6290",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6286/6286-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6290/6290-logo.png",
-      "name": "DENZA Signature Series: Gold Coast Segment",
-      "description": "Take on the Gold Coast Segment and earn the exclusive DENZA Segment badge",
-      "time": "Sep 1, 2026 to Sep 30, 2026  —  14 days left",
-      "start_date": "Sep 1, 2026",
-      "status": "running",
-      "challenge_days": "30",
-      "task": "Complete the Denza Signature Segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the Segment to earn an exclusive digital DENZA Signature Series badge",
-      "participants": "5635"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6291",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6286/6286-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6291/6291-logo.png",
-      "name": "DENZA Signature Series: Launceston Segment",
-      "description": "Take on the Launceston Segment and earn the exclusive DENZA Segment badge",
-      "time": "Sep 1, 2026 to Sep 30, 2026  —  14 days left",
-      "start_date": "Sep 1, 2026",
-      "status": "running",
-      "challenge_days": "30",
-      "task": "Complete the DENZA Signature Segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the Segment to earn an exclusive digital DENZA Signature Series badge",
-      "participants": "1996"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6292",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6292/6292-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6292/6292-logo.png",
-      "name": "DENZA Forward Challenge",
-      "description": "Complete 60km in 30 days and discover how far consistency can take you.",
-      "time": "Sep 1, 2026 to Sep 30, 2026  —  14 days left",
-      "start_date": "Sep 1, 2026",
-      "status": "running",
-      "challenge_days": "30",
-      "task": "Complete 60km in 30 days",
-      "tags": [
-         "Hike",
-         "Run",
-         "Wheelchair"
-      ],
-      "reward": "Complete the challenge to unlock the exclusive DENZA Forward Challenge digital badge.",
-      "participants": "45299"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6293",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6293/6293-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6293/6293-logo.png",
-      "name": "Arla® Cow Step Challenge",
-      "description": "Outwalk Arla®'s grazing cows and win awesome prizes!",
-      "time": "Sep 7, 2026 to Oct 4, 2026  —  18 days left",
-      "start_date": "Sep 7, 2026",
-      "status": "running",
-      "challenge_days": "28",
-      "task": "Walk 100,000 steps",
-      "tags": [
-         "Hike",
-         "Walk"
-      ],
-      "reward": "Walk more steps than an Arla® cow on grass and enter the draw to win awesome prizes!",
-      "club": "https://www.strava.com/clubs/2241449",
-      "participants": "36846"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6294",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6275/6275-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6294/6294-logo.png",
-      "name": "HOKA | Reach Your Peak - Fruita",
-      "description": "Run a legendary ultra course segment for a chance to win the Tecton X 4.",
-      "time": "Aug 24, 2026 to Sep 28, 2026  —  12 days left",
-      "start_date": "Aug 24, 2026",
-      "status": "running",
-      "challenge_days": "36",
-      "task": "Complete the Course Segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Win a head-to-toe running kit, including the Tecton X 4.",
-      "club": "https://www.strava.com/clubs/76016",
-      "participants": "1466"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6295",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6275/6275-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6295/6295-logo.png",
-      "name": "HOKA | Reach Your Peak - Boalsburg",
-      "description": "Run a legendary ultra course segment for a chance to win the Tecton X 4.",
-      "time": "Aug 24, 2026 to Sep 28, 2026  —  12 days left",
-      "start_date": "Aug 24, 2026",
-      "status": "running",
-      "challenge_days": "36",
-      "task": "Complete the Course Segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Win a head-to-toe running kit, including the Tecton X 4.",
-      "club": "https://www.strava.com/clubs/76016",
-      "participants": "1752"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6296",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6275/6275-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6296/6296-logo.png",
-      "name": "HOKA | Reach Your Peak - Snowbird",
-      "description": "Run a legendary ultra course segment for a chance to win the Tecton X 4.",
-      "time": "Aug 24, 2026 to Sep 28, 2026  —  12 days left",
-      "start_date": "Aug 24, 2026",
-      "status": "running",
-      "challenge_days": "36",
-      "task": "Complete the Course Segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Win a head-to-toe running kit, including the Tecton X 4.",
-      "club": "https://www.strava.com/clubs/76016",
-      "participants": "1900"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6298",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6298/6298-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6298/6298-logo.png",
-      "name": "G-SHOCK SHARE THE MOVE",
-      "description": "Complete the Ibirapuera segment and unlock your digital badge.",
-      "time": "Aug 24, 2026 to Sep 20, 2026  —  4 days left",
-      "start_date": "Aug 24, 2026",
-      "status": "running",
-      "challenge_days": "28",
-      "task": "Complete the Ibirapuera segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "All participants who complete the official segment will receive a Strava digital badge and a 15% discount coupon for purchases on the brand's official website.",
-      "club": "https://www.strava.com/clubs/1610554",
-      "participants": "25504"
-   },
-   {
       "challenge_url": "https://www.strava.com/challenges/6303",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6303/6303-cover.png",
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6303/6303-logo.png",
@@ -466,7 +69,7 @@
       ],
       "reward": "Complete the challenge and unlock your exclusive Septembre Bouge badge!",
       "club": "https://www.strava.com/clubs/2229469",
-      "participants": "76033"
+      "participants": "76701"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6304",
@@ -488,7 +91,7 @@
       ],
       "reward": "Complete the challenge for a chance to win a 2027 London Marathon entry and the ultimate Shokz running gear bundle.",
       "club": "https://www.strava.com/clubs/559980",
-      "participants": "95743"
+      "participants": "96124"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6305",
@@ -509,7 +112,7 @@
       ],
       "reward": "Win a wellness getaway for 2 at a stunning eco-hotel spa in Brittany, plus many more surprises!",
       "club": "https://www.strava.com/clubs/2238060",
-      "participants": "35089"
+      "participants": "38135"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6309",
@@ -531,7 +134,7 @@
       ],
       "reward": "Complete your 60 minutes for a chance to win 1 of 5 pairs of Kipride Max shoes and your digital badge!",
       "club": "https://www.strava.com/clubs/341003",
-      "participants": "27020"
+      "participants": "31871"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6310",
@@ -548,7 +151,7 @@
          "Run"
       ],
       "reward": "Finish for 20% off John Lewis sports + your chance to win tickets to HYROX or the Barcelona Half. T\\u0026Cs apply.",
-      "participants": "14550"
+      "participants": "14614"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6311",
@@ -565,7 +168,7 @@
          "Run"
       ],
       "reward": "Finish for 20% off John Lewis sports + your chance to win tickets to HYROX or the Barcelona Half. T\\u0026Cs apply.",
-      "participants": "470"
+      "participants": "672"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6312",
@@ -604,7 +207,7 @@
       ],
       "reward": "Complete the challenge for a chance to win 1 of 30 MaxiNutrition prize packs.",
       "club": "https://www.strava.com/clubs/2295582",
-      "participants": "88401"
+      "participants": "88735"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6314",
@@ -675,7 +278,7 @@
          "Yoga"
       ],
       "reward": "Complete the challenge and unlock 30 days ad-free on the Weather \\u0026 Radar app",
-      "participants": "351430"
+      "participants": "353312"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6315",
@@ -695,7 +298,7 @@
       ],
       "reward": "Earn your exclusive Forest Runner badge and be entered to win Runners Need vouchers and Forestry England rewards.",
       "club": "https://www.strava.com/clubs/197185",
-      "participants": "81998"
+      "participants": "82499"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6317",
@@ -766,7 +369,7 @@
          "Yoga"
       ],
       "reward": "Start the day strong, complete the challenge, and win the exclusive Workday badge.",
-      "participants": "65922"
+      "participants": "66596"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6318",
@@ -795,7 +398,7 @@
          "Workout"
       ],
       "reward": "Unlock an exclusive Audible badge and 2 months free when you conquer the Audible Level-Up Challenge",
-      "participants": "42430"
+      "participants": "43119"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6319",
@@ -813,7 +416,7 @@
       ],
       "reward": "Complete the segment to earn a badge, then enter for a chance to win a free year of Strava and Lone River gear.",
       "club": "https://www.strava.com/clubs/1624881",
-      "participants": "7177"
+      "participants": "7196"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6321",
@@ -884,7 +487,7 @@
          "Yoga"
       ],
       "reward": "Challenge finishers earn 25% off Outdoor Research products* and a digital OR finishers badge.",
-      "participants": "31014"
+      "participants": "31362"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6322",
@@ -956,7 +559,7 @@
       ],
       "reward": "Complete the Challenge to earn your badge and unlock a 2-week free Runna trial (new users only).",
       "club": "https://www.strava.com/clubs/886292",
-      "participants": "934479"
+      "participants": "938749"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6323",
@@ -994,7 +597,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "232479"
+      "participants": "233202"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6324",
@@ -1015,7 +618,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/512841",
-      "participants": "943699"
+      "participants": "948168"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6325",
@@ -1033,7 +636,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "102398"
+      "participants": "102710"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6326",
@@ -1053,7 +656,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "409797"
+      "participants": "411456"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6327",
@@ -1074,7 +677,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "770949"
+      "participants": "774163"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6328",
@@ -1095,7 +698,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "479069"
+      "participants": "480657"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6329",
@@ -1119,7 +722,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "430268"
+      "participants": "431963"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6330",
@@ -1140,7 +743,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "592792"
+      "participants": "595099"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6331",
@@ -1162,7 +765,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "246376"
+      "participants": "247143"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6332",
@@ -1184,7 +787,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "305353"
+      "participants": "306305"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6333",
@@ -1206,7 +809,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "393717"
+      "participants": "395174"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6334",
@@ -1228,7 +831,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "252749"
+      "participants": "253539"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6335",
@@ -1300,7 +903,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "703749"
+      "participants": "706552"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6336",
@@ -1372,7 +975,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "905949"
+      "participants": "909668"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6337",
@@ -1444,7 +1047,7 @@
       ],
       "reward": "Log 10 active days outside and get 20% off at Bever",
       "club": "https://www.strava.com/clubs/1916735",
-      "participants": "83898"
+      "participants": "84260"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6339",
@@ -1468,7 +1071,7 @@
       ],
       "reward": "Set up your GoFundMe fundraiser for the the chance to win 1 of 6 Sir Chris Hoy signed cycle shirts",
       "club": "https://www.strava.com/clubs/2288462",
-      "participants": "58826"
+      "participants": "59139"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6341",
@@ -1540,7 +1143,7 @@
       ],
       "reward": "Complete the challenge for a chance to win Garmin watches, Strava subscriptions, and Slim \\u0026 Fit vouchers",
       "club": "https://www.strava.com/clubs/2011430",
-      "participants": "35757"
+      "participants": "36129"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6342",
@@ -1560,7 +1163,7 @@
       ],
       "reward": "Earn the badge and enter to win a head-to-toe Marathon Pack kit, including race-day super shoes.",
       "club": "https://www.strava.com/clubs/76016",
-      "participants": "82161"
+      "participants": "82531"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6343",
@@ -1578,7 +1181,7 @@
       ],
       "reward": "Complete the segment to earn a badge, then enter for a chance to win a free year of Strava and Lone River gear.",
       "club": "https://www.strava.com/clubs/1624881",
-      "participants": "4132"
+      "participants": "4156"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6344",
@@ -1608,7 +1211,7 @@
          "Wheelchair"
       ],
       "reward": "Join the fight to help hit 400,000 collective miles to unlock a $1 million dollar donation to help young cancer warriors.",
-      "participants": "120545"
+      "participants": "121091"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6345",
@@ -1680,7 +1283,7 @@
       ],
       "reward": "Challenge finishers earn 30% off Nature's Sunshine products and a chance to win up to $1,000 in free product.",
       "club": "https://www.strava.com/clubs/1514419",
-      "participants": "99509"
+      "participants": "99744"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6346",
@@ -1697,7 +1300,7 @@
          "Run"
       ],
       "reward": "Complete the segment to learn more about Strava for Business.",
-      "participants": "384"
+      "participants": "394"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6349",
@@ -1768,7 +1371,7 @@
          "Yoga"
       ],
       "reward": "Finishers get 20% off* Intrepid trips in Canada, plus the chance to win two spots on an 8-day hiking adventure",
-      "participants": "53172"
+      "participants": "53301"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6350",
@@ -1840,7 +1443,7 @@
       ],
       "reward": "Complete the challenge to unlock a Challenge Bottle, plus 20% off a Maurten gel pack",
       "club": "https://www.strava.com/clubs/280372",
-      "participants": "152602"
+      "participants": "153127"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6351",
@@ -1857,7 +1460,7 @@
          "Run"
       ],
       "reward": "Top participants will win special exhibition tickets to SFMOMA.",
-      "participants": "6452"
+      "participants": "6470"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6352",
@@ -1877,7 +1480,7 @@
          "Wheelchair"
       ],
       "reward": "Every mile matters: finish 5K and unlock a free ticket to see Runner.",
-      "participants": "118840"
+      "participants": "119192"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6353",
@@ -1948,7 +1551,7 @@
          "Yoga"
       ],
       "reward": "Finishers are entered into a prize draw to win packs of pasta and sports equipment.",
-      "participants": "145996"
+      "participants": "146890"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6354",
@@ -1966,7 +1569,7 @@
       ],
       "reward": "Participate in the challenge to power Manhattan to the top for the chance at head-to-toe HOKA gear.",
       "club": "https://www.strava.com/clubs/76016",
-      "participants": "23857"
+      "participants": "23948"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6355",
@@ -1984,7 +1587,7 @@
       ],
       "reward": "Participate in the challenge to power Brooklyn to the top for the chance at head-to-toe HOKA gear.",
       "club": "https://www.strava.com/clubs/76016",
-      "participants": "10893"
+      "participants": "10925"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6356",
@@ -2002,7 +1605,7 @@
       ],
       "reward": "Participate in the challenge to power Queens to the top for the chance at head-to-toe HOKA gear.",
       "club": "https://www.strava.com/clubs/76016",
-      "participants": "3829"
+      "participants": "3841"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6357",
@@ -2022,7 +1625,7 @@
       ],
       "reward": "Participate to power your borough to the top for the chance at full head-to-toe HOKA gear. Every mile counts.",
       "club": "https://www.strava.com/clubs/76016",
-      "participants": "47512"
+      "participants": "47667"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6358",
@@ -2039,7 +1642,7 @@
          "Run"
       ],
       "reward": "Earn a digital finisher’s badge for your trophy case and a chance to win a bib to an Abbott World Marathon Major*",
-      "participants": "11191"
+      "participants": "11222"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6359",
@@ -2057,7 +1660,7 @@
       ],
       "reward": "Participate in the challenge to power the Bronx to the top for the chance at head-to-toe HOKA gear.",
       "club": "https://www.strava.com/clubs/76016",
-      "participants": "3606"
+      "participants": "3614"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6360",
@@ -2075,7 +1678,7 @@
       ],
       "reward": "Participate in the challenge to power Staten Island to the top for the chance at head-to-toe HOKA gear.",
       "club": "https://www.strava.com/clubs/76016",
-      "participants": "2454"
+      "participants": "2459"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6361",
@@ -2096,7 +1699,7 @@
       ],
       "reward": "Enter to win a FW26 GT S11 Kit, get 15% off ASSOS online or in-store, and earn the Challenge badge",
       "club": "https://www.strava.com/clubs/99524",
-      "participants": "292047"
+      "participants": "294051"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6362",
@@ -2130,7 +1733,7 @@
       ],
       "reward": "Complete 6 active days and join an exclusive social run with Marten Van Riel",
       "club": "https://www.strava.com/clubs/1018164",
-      "participants": "31067"
+      "participants": "31379"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6363",
@@ -2152,7 +1755,7 @@
       ],
       "reward": "Run 30km for a chance to win one of 40 pairs of Altra running shoes*, a Strava Digital Badge \\u0026 more**!",
       "club": "https://www.strava.com/clubs/562713",
-      "participants": "160693"
+      "participants": "163767"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6364",
@@ -2224,7 +1827,7 @@
       ],
       "reward": "Complete the challenge to unlock the Move Your Way digital badge and 1 FREE month at Planet Fitness.",
       "club": "https://www.strava.com/clubs/1331543",
-      "participants": "50983"
+      "participants": "51810"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6365",
@@ -2245,7 +1848,7 @@
       ],
       "reward": "Finishers will earn a digital badge and are eligible for prizes and a qualifying IAMS High Protein purchase rebate!",
       "club": "https://www.strava.com/clubs/1868907",
-      "participants": "76585"
+      "participants": "76852"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6367",
@@ -2265,7 +1868,7 @@
       ],
       "reward": "Complete the challenge to earn your digital badge and a chance to win an After Dark Tour Manila 10K race bib.",
       "club": "https://www.strava.com/clubs/1136931",
-      "participants": "38934"
+      "participants": "39152"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6368",
@@ -2284,7 +1887,7 @@
       ],
       "reward": "Join and complete the challenge for a chance to win the new HOKA Stinson 8 and to earn a digital completion badge.",
       "club": "https://www.strava.com/clubs/122521",
-      "participants": "55082"
+      "participants": "55350"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6369",
@@ -2302,7 +1905,7 @@
       ],
       "reward": "Get your body moving for a chance to win a Theragun Mini and 25% off goodr sunnies!",
       "club": "https://www.strava.com/clubs/481486",
-      "participants": "7397"
+      "participants": "7444"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6370",
@@ -2320,7 +1923,7 @@
       ],
       "reward": "Complete the challenge for a chance to win the new HOKA Stinson 8 and to earn a digital completion badge.",
       "club": "https://www.strava.com/clubs/122521",
-      "participants": "1683"
+      "participants": "1698"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6371",
@@ -2340,7 +1943,7 @@
       ],
       "reward": "Win your place at Maratón Valencia Trinidad Alfonso Zurich.",
       "club": "https://www.strava.com/clubs/231696",
-      "participants": "60596"
+      "participants": "60987"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6372",
@@ -2361,7 +1964,7 @@
          "Walk"
       ],
       "reward": "Challenge finishers earn The Heart of the Beast Badge.",
-      "participants": "39742"
+      "participants": "40183"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6374",
@@ -2432,7 +2035,7 @@
          "Yoga"
       ],
       "reward": "Complete the challenge to go into the draw to win 1 of 2 $799 Dyson vouchers.",
-      "participants": "22445"
+      "participants": "22875"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6375",
@@ -2452,7 +2055,7 @@
       ],
       "reward": "Get a 15% voucher for your new pair of Adizero Evo SL via the adidas App for tracking your fastest km",
       "club": "https://www.strava.com/clubs/1432394",
-      "participants": "23554"
+      "participants": "29122"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6378",
@@ -2523,7 +2126,7 @@
          "Yoga"
       ],
       "reward": "Complete the challenge to go into the draw to win one $849 Dyson voucher.",
-      "participants": "18228"
+      "participants": "18582"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6379",
@@ -2595,7 +2198,7 @@
       ],
       "reward": "Take up the challenge and try to win a signed LCL Yellow Jersey.",
       "club": "https://www.strava.com/clubs/148438",
-      "participants": "103188"
+      "participants": "103883"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6380",
@@ -2613,7 +2216,7 @@
       ],
       "reward": "Complete the Bandit 606 Challenge to unlock a Strava Badge and exclusive offers at Bandit Chicago this fall.",
       "club": "https://www.strava.com/clubs/1020236",
-      "participants": "5521"
+      "participants": "5553"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6381",
@@ -2634,7 +2237,7 @@
       ],
       "reward": "Win socks for life. 10 additional winners will each receive a free pair of Darn Tough socks.",
       "club": "https://www.strava.com/clubs/1041471",
-      "participants": "41579"
+      "participants": "42120"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6383",
@@ -2652,7 +2255,7 @@
       ],
       "reward": "Complete the challenge for your shot at an Empire State Building Observation Deck Run-Up entry and Merrell shoes.",
       "club": "https://www.strava.com/clubs/577420",
-      "participants": "21049"
+      "participants": "21210"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6386",
@@ -2672,7 +2275,7 @@
          "Walk"
       ],
       "reward": "Earn an exclusive digital badge and get the chance to have your photo shared on @googlebrasil's Instagram!",
-      "participants": "86987"
+      "participants": "87735"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6387",
@@ -2744,7 +2347,7 @@
       ],
       "reward": "Ride 120 minutes to earn $30 on PerformanceBike.com!",
       "club": "https://www.strava.com/clubs/728019",
-      "participants": "58640"
+      "participants": "59248"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6389",
@@ -2815,7 +2418,7 @@
          "Yoga"
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
-      "participants": "177341"
+      "participants": "181114"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6390",
@@ -2888,7 +2491,7 @@
       ],
       "reward": "Complete the challenge to score a $10 Gatorade Store credit PLUS a chance to win a year’s supply of Gatorade.",
       "club": "https://www.strava.com/clubs/1946777",
-      "participants": "44794"
+      "participants": "45336"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6391",
@@ -2909,7 +2512,7 @@
          "Walk"
       ],
       "reward": "Challenge finishers earn The Heart of the Beast Badge.",
-      "participants": "25783"
+      "participants": "26242"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6392",
@@ -2938,7 +2541,7 @@
       ],
       "reward": "Complete the challenge and participate to win up to a HUAWEI WATCH GT 7 Pro and exclusive rewards with PayPal",
       "club": "https://www.strava.com/clubs/1978128",
-      "participants": "13370"
+      "participants": "14183"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6393",
@@ -2956,7 +2559,7 @@
       ],
       "reward": "Run the On LightSpray™ Challenge to earn the LightSpray™ Berlin badge.",
       "club": "https://www.strava.com/clubs/226387",
-      "participants": "4223"
+      "participants": "4371"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6394",
@@ -2974,7 +2577,7 @@
       ],
       "reward": "By running the route and following the detour to the designated bar, runners earn a Heineken 0.0 to cheers with.",
       "club": "https://www.strava.com/clubs/2021212",
-      "participants": "4529"
+      "participants": "4549"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6395",
@@ -2992,7 +2595,7 @@
       ],
       "reward": "By running the route and following the detour to the designated bar, runners earn a Heineken 0.0 to cheers with.",
       "club": "https://www.strava.com/clubs/2021212",
-      "participants": "6106"
+      "participants": "6132"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6396",
@@ -3010,7 +2613,7 @@
       ],
       "reward": "By running the route and following the detour to the designated bar, runners earn a Heineken 0.0 to cheers with.",
       "club": "https://www.strava.com/clubs/2021212",
-      "participants": "3999"
+      "participants": "4015"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6397",
@@ -3028,7 +2631,7 @@
       ],
       "reward": "By running the route and following the detour to the designated bar, runners earn a Heineken 0.0 to cheers with.",
       "club": "https://www.strava.com/clubs/2021212",
-      "participants": "6305"
+      "participants": "6355"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6398",
@@ -3046,7 +2649,7 @@
       ],
       "reward": "By running the route and following the detour to the designated bar, runners earn a Heineken 0.0 to cheers with.",
       "club": "https://www.strava.com/clubs/2021212",
-      "participants": "8445"
+      "participants": "8459"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6399",
@@ -3064,7 +2667,7 @@
       ],
       "reward": "By running the route and following the detour to the designated bar, runners earn a Heineken 0.0 to cheers with.",
       "club": "https://www.strava.com/clubs/2021212",
-      "participants": "4319"
+      "participants": "4328"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6400",
@@ -3082,7 +2685,7 @@
       ],
       "reward": "By running the route and following the detour to the designated bar, runners earn a Heineken 0.0 to cheers with.",
       "club": "https://www.strava.com/clubs/2021212",
-      "participants": "3021"
+      "participants": "3252"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6401",
@@ -3105,7 +2708,7 @@
       ],
       "reward": "Complete 150 minutes to unlock a unique Strava Badge, entry to win exclusive Bandit prizes and up to 20% off Bandit",
       "club": "https://www.strava.com/clubs/1020236",
-      "participants": "230645"
+      "participants": "234766"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6402",
@@ -3128,7 +2731,7 @@
       ],
       "reward": "Earn the badge, get €50 off and be in with a chance to win a Santini voucher worth €800, €500 or €300!",
       "club": "https://www.strava.com/clubs/133446",
-      "participants": "48521"
+      "participants": "50092"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6403",
@@ -3148,7 +2751,7 @@
          "Walk"
       ],
       "reward": "Complete the challenge for a chance to win 1 of 5 adidas TERREX Freehiker SL GTX pairs.",
-      "participants": "20107"
+      "participants": "21624"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6405",
@@ -3221,7 +2824,7 @@
       ],
       "reward": "Win a €1,000 gift card, 10% off Private Sport Shop, and the new HOKA Tecton X4!",
       "club": "https://www.strava.com/clubs/314230",
-      "participants": "50590"
+      "participants": "52276"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6406",
@@ -3258,7 +2861,7 @@
       ],
       "reward": "Complete the challenge to earn 20% off and enter for a chance to win Tailwind for a year ($1200 gift card)!",
       "club": "https://www.strava.com/clubs/232906",
-      "participants": "21843"
+      "participants": "22219"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6409",
@@ -3331,7 +2934,7 @@
       ],
       "reward": "You’ll earn 30% off Nuun Hydration and an exclusive digital badge.",
       "club": "https://www.strava.com/clubs/169978",
-      "participants": "48950"
+      "participants": "49490"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6417",
@@ -3349,7 +2952,7 @@
       ],
       "reward": "Complete the challenge to get 20%* off running gear and sportswear on Zalando – and earn the Zalando badge.",
       "club": "https://www.strava.com/clubs/914587",
-      "participants": "1271"
+      "participants": "1322"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6418",
@@ -3369,7 +2972,7 @@
       ],
       "reward": "Complete the challenge to earn your digital badge and a chance to win an After Dark Tour Mumbai 10K race bib.",
       "club": "https://www.strava.com/clubs/1136931",
-      "participants": "20851"
+      "participants": "21395"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6433",
@@ -3442,7 +3045,7 @@
       ],
       "reward": "Complete the challenge to earn the Built in Bites badge and 30% off* sitewide on Clifbar.com",
       "club": "https://www.strava.com/clubs/240524",
-      "participants": "33698"
+      "participants": "37532"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6434",
@@ -3515,7 +3118,7 @@
       ],
       "reward": "Turn six, twenty-minute workouts into one chance for $620 in Team Potato prizes.",
       "club": "https://www.strava.com/clubs/1095265",
-      "participants": "50682"
+      "participants": "51155"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6441",
@@ -3540,7 +3143,7 @@
       ],
       "reward": "Complete 100,000km running or cycling and earn your exclusive HUAWEI WATCH GT7 virtual medal! 🥇",
       "club": "https://www.strava.com/clubs/1963999",
-      "participants": "316"
+      "participants": "2387"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6442",
@@ -3558,6 +3161,6 @@
       ],
       "reward": "By running the route and following the detour to the designated bar, runners earn a Heineken 0.0 to cheers with.",
       "club": "https://www.strava.com/clubs/2021212",
-      "participants": "624"
+      "participants": "742"
    }
 ]
