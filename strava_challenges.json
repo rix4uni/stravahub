@@ -5,7 +5,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6364/6364-logo.png",
       "name": "Planet Fitness Move Your Way Challenge",
       "description": "Working out doesn’t have to be complicated. Move your way and get rewarded!",
-      "time": "Sep 17, 2026 to Oct 29, 2026  —  11 days left",
+      "time": "Sep 17, 2026 to Oct 29, 2026  —  10 days left",
       "start_date": "Sep 17, 2026",
       "status": "running",
       "challenge_days": "43",
@@ -69,7 +69,7 @@
       ],
       "reward": "Complete the challenge to unlock the Move Your Way digital badge and 1 FREE month at Planet Fitness.",
       "club": "https://www.strava.com/clubs/1331543",
-      "participants": "142398"
+      "participants": "142992"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6367",
@@ -77,7 +77,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6367/6367-logo.png",
       "name": "Nike After Dark Tour Manila Challenge",
       "description": "Log 20 runs in 8 weeks for a chance to win an After Dark Tour race bib.",
-      "time": "Sep 12, 2026 to Nov 6, 2026  —  19 days left",
+      "time": "Sep 12, 2026 to Nov 6, 2026  —  18 days left",
       "start_date": "Sep 12, 2026",
       "status": "running",
       "challenge_days": "56",
@@ -89,183 +89,7 @@
       ],
       "reward": "Complete the challenge to earn your digital badge and a chance to win an After Dark Tour Manila 10K race bib.",
       "club": "https://www.strava.com/clubs/1136931",
-      "participants": "64709"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6374",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6374/6374-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6374/6374-logo.png",
-      "name": "Ready. Set. Brush. | Dyson CameraJet™",
-      "description": "Complete the challenge for the chance to win 1 of 2 $799 Dyson vouchers.",
-      "time": "Sep 20, 2026 to Oct 19, 2026  —  1 day left",
-      "start_date": "Sep 20, 2026",
-      "status": "running",
-      "challenge_days": "30",
-      "task": "Log 7 Active Days",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Complete the challenge to go into the draw to win 1 of 2 $799 Dyson vouchers.",
-      "participants": "54367"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6376",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6376/6376-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6376/6376-logo.png",
-      "name": "Dyson CameraJet™ Sydney Segment",
-      "description": "Complete the segment for the chance to win 1 of 2 $799 Dyson vouchers.​",
-      "time": "Sep 20, 2026 to Oct 19, 2026  —  1 day left",
-      "start_date": "Sep 20, 2026",
-      "status": "running",
-      "challenge_days": "30",
-      "task": "Complete the Sydney Centennial Park Segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the segment for the chance to win 1 of 2 $799 Dyson vouchers.​",
-      "participants": "22424"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6377",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6377/6377-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6377/6377-logo.png",
-      "name": "Dyson CameraJet™ Melbourne Segment",
-      "description": "Complete the segment for the chance to win 1 of 2 $799 Dyson vouchers.​",
-      "time": "Sep 20, 2026 to Oct 19, 2026  —  1 day left",
-      "start_date": "Sep 20, 2026",
-      "status": "running",
-      "challenge_days": "30",
-      "task": "Complete the Melbourne Albert Park Segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the segment for the chance to win 1 of 2 $799 Dyson vouchers.​",
-      "participants": "13212"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/6378",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6378/6378-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6378/6378-logo.png",
-      "name": "Ready. Set. Brush. | Dyson CameraJet™",
-      "description": "Complete the challenge for the chance to win one $849 Dyson voucher.​",
-      "time": "Sep 20, 2026 to Oct 19, 2026  —  1 day left",
-      "start_date": "Sep 20, 2026",
-      "status": "running",
-      "challenge_days": "30",
-      "task": "Log 7 Active Days",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Complete the challenge to go into the draw to win one $849 Dyson voucher.",
-      "participants": "41876"
+      "participants": "64803"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6385",
@@ -273,7 +97,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6385/6385-logo.png",
       "name": "Zappos NYC Challenge: Central Park",
       "description": "Lace up, lock in &amp;amp; take on the CP loop.",
-      "time": "Oct 4, 2026 to Nov 1, 2026  —  14 days left",
+      "time": "Oct 4, 2026 to Nov 1, 2026  —  13 days left",
       "start_date": "Oct 4, 2026",
       "status": "running",
       "challenge_days": "29",
@@ -283,7 +107,7 @@
       ],
       "reward": "Another NYC mile? Let’s make it count. Zappos is cheering you on. 📣",
       "club": "https://www.strava.com/clubs/1128091",
-      "participants": "32631"
+      "participants": "33100"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6404",
@@ -291,7 +115,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6404/6404-logo.png",
       "name": "Team End Polio Challenge",
       "description": "60 million minutes of movement for a polio-free future",
-      "time": "Sep 24, 2026 to Oct 24, 2026  —  6 days left",
+      "time": "Sep 24, 2026 to Oct 24, 2026  —  5 days left",
       "start_date": "Sep 24, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -355,7 +179,7 @@
          "Yoga"
       ],
       "reward": "Your movement matters—log 300 minutes to help end polio and protect every child.",
-      "participants": "97437"
+      "participants": "97628"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6408",
@@ -363,7 +187,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6408/6408-logo.png",
       "name": "GREATNESS IN SIGHT: Nike Vision CPH",
       "description": "Take on the Copenhagen segment and claim an exclusive Nike Vision gift",
-      "time": "Sep 18, 2026 to Oct 20, 2026  —  2 days left",
+      "time": "Sep 18, 2026 to Oct 20, 2026  —  1 day left",
       "start_date": "Sep 18, 2026",
       "status": "running",
       "challenge_days": "33",
@@ -373,7 +197,7 @@
       ],
       "reward": "Complete the segment to unlock an exclusive gift at the Nike Vision Hub.",
       "club": "https://www.strava.com/clubs/2322455",
-      "participants": "5086"
+      "participants": "5097"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6413",
@@ -381,7 +205,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6413/6413-logo.png",
       "name": "Sweat to your soundtrack",
       "description": "Fuel every workout with sound. Stay active and earn a Bose reward.",
-      "time": "Oct 1, 2026 to Nov 12, 2026  —  25 days left",
+      "time": "Oct 1, 2026 to Nov 12, 2026  —  24 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "43",
@@ -445,7 +269,7 @@
          "Yoga"
       ],
       "reward": "Complete the challenge. Move to your music for the length of a 45-minute album for a shot at 10% off Bose products.",
-      "participants": "115382"
+      "participants": "115635"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6418",
@@ -453,7 +277,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6418/6418-logo.png",
       "name": "Nike After Dark Tour Mumbai Challenge",
       "description": "Log 20 runs in 8 weeks for a chance to win an After Dark Tour race bib.",
-      "time": "Sep 19, 2026 to Nov 13, 2026  —  26 days left",
+      "time": "Sep 19, 2026 to Nov 13, 2026  —  25 days left",
       "start_date": "Sep 19, 2026",
       "status": "running",
       "challenge_days": "56",
@@ -465,7 +289,7 @@
       ],
       "reward": "Complete the challenge to earn your digital badge and a chance to win an After Dark Tour Mumbai 10K race bib.",
       "club": "https://www.strava.com/clubs/1136931",
-      "participants": "72363"
+      "participants": "72514"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6432",
@@ -473,7 +297,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6432/6432-logo.png",
       "name": "Heidi: Find your Freedom Challenge",
       "description": "Get moving, get rewarded: £100 off, plus a chance to win a £3,000 ski trip",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  13 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  12 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -538,7 +362,7 @@
       ],
       "reward": "Complete the challenge for £100 off your next Heidi trip, plus a shot at winning a £3,000 dream ski holiday (open to UK \\u0026 Ireland participants)",
       "club": "https://www.strava.com/clubs/2273604",
-      "participants": "96104"
+      "participants": "96334"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6433",
@@ -546,7 +370,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6433/6433-logo.png",
       "name": "CLIF Built in Bites Challenge",
       "description": "Complete 330 minutes of activity and earn 30% off* Clifbar.com",
-      "time": "Sep 22, 2026 to Nov 3, 2026  —  16 days left",
+      "time": "Sep 22, 2026 to Nov 3, 2026  —  15 days left",
       "start_date": "Sep 22, 2026",
       "status": "running",
       "challenge_days": "43",
@@ -611,7 +435,7 @@
       ],
       "reward": "Complete the challenge to earn the Built in Bites badge and 30% off* sitewide on Clifbar.com",
       "club": "https://www.strava.com/clubs/240524",
-      "participants": "154722"
+      "participants": "155311"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6445",
@@ -619,7 +443,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6445/6445-logo.png",
       "name": "October Flexibility Challenge",
       "description": "Inhale. Exhale. Flow. Make time for yourself to stretch this month.",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  13 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  12 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -649,7 +473,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "226159"
+      "participants": "227099"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6446",
@@ -657,7 +481,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6446/6446-logo.png",
       "name": "October 20 Hour Swim Challenge",
       "description": "Our longest swimming challenge. Are you ready?",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  13 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  12 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -667,7 +491,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "103881"
+      "participants": "104327"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6447",
@@ -675,7 +499,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6447/6447-logo.png",
       "name": "October Walk 30K Steps Challenge",
       "description": "One foot, then the other. Push yourself to walk 30 km this month.",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  13 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  12 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -687,7 +511,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "496827"
+      "participants": "499044"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6448",
@@ -695,7 +519,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6448/6448-logo.png",
       "name": "October 10K Challenge",
       "description": "Lace 'em up, run 'em out",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  13 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  12 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -708,7 +532,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "830956"
+      "participants": "834392"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6449",
@@ -716,7 +540,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6449/6449-logo.png",
       "name": "October Half Marathon Challenge",
       "description": "Ready for a long run?",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  13 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  12 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -729,7 +553,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "513472"
+      "participants": "515467"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6450",
@@ -737,7 +561,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6450/6450-logo.png",
       "name": "October Elevation Challenge",
       "description": "We're going up, up, up!",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  13 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  12 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -753,7 +577,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "440560"
+      "participants": "442474"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6451",
@@ -761,7 +585,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6451/6451-logo.png",
       "name": "October Run 100K Challenge",
       "description": "One month. 100 kilometers. You in?",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  13 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  12 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -774,7 +598,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "621357"
+      "participants": "623775"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6452",
@@ -782,7 +606,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6452/6452-logo.png",
       "name": "October Cycling Elevation Challenge",
       "description": "Go vertical",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  13 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  12 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -796,7 +620,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "237037"
+      "participants": "237962"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6453",
@@ -804,7 +628,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6453/6453-logo.png",
       "name": "October Gran Fondo Challenge",
       "description": "100 kms. One ride. Let's go!",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  13 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  12 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -818,7 +642,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "289196"
+      "participants": "290245"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6454",
@@ -826,7 +650,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6454/6454-logo.png",
       "name": "October Ride 200K Challenge",
       "description": "One month. 200 km. You in?",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  13 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  12 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -841,7 +665,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "394566"
+      "participants": "396032"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6455",
@@ -849,7 +673,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6455/6455-logo.png",
       "name": "October Ride 800K Challenge",
       "description": "One month. 800 km. You in?",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  13 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  12 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -864,7 +688,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "243702"
+      "participants": "244590"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6456",
@@ -872,7 +696,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6456/6456-logo.png",
       "name": "October 180 Minute Sweat Challenge",
       "description": "Push it! Join our longest single-activity challenge.",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  13 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  12 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -937,6 +761,6 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "803147"
+      "participants": "806449"
    }
 ]
