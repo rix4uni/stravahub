@@ -1,83 +1,11 @@
 [
    {
-      "challenge_url": "https://www.strava.com/challenges/6364",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6364/6364-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6364/6364-logo.png",
-      "name": "Planet Fitness Move Your Way Challenge",
-      "description": "Working out doesn’t have to be complicated. Move your way and get rewarded!",
-      "time": "Sep 17, 2026 to Oct 29, 2026  —  1 day left",
-      "start_date": "Sep 17, 2026",
-      "status": "running",
-      "challenge_days": "43",
-      "task": "Complete 300 minutes.",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Complete the challenge to unlock the Move Your Way digital badge and 1 FREE month at Planet Fitness.",
-      "club": "https://www.strava.com/clubs/1331543",
-      "participants": "154433"
-   },
-   {
       "challenge_url": "https://www.strava.com/challenges/6367",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6367/6367-cover.png",
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6367/6367-logo.png",
       "name": "Nike After Dark Tour Manila Challenge",
       "description": "Log 20 runs in 8 weeks for a chance to win an After Dark Tour race bib.",
-      "time": "Sep 12, 2026 to Nov 6, 2026  —  9 days left",
+      "time": "Sep 12, 2026 to Nov 6, 2026  —  8 days left",
       "start_date": "Sep 12, 2026",
       "status": "running",
       "challenge_days": "56",
@@ -89,7 +17,7 @@
       ],
       "reward": "Complete the challenge to earn your digital badge and a chance to win an After Dark Tour Manila 10K race bib.",
       "club": "https://www.strava.com/clubs/1136931",
-      "participants": "69075"
+      "participants": "69215"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6385",
@@ -97,7 +25,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6385/6385-logo.png",
       "name": "Zappos NYC Challenge: Central Park",
       "description": "Lace up, lock in &amp;amp; take on the CP loop.",
-      "time": "Oct 4, 2026 to Nov 1, 2026  —  4 days left",
+      "time": "Oct 4, 2026 to Nov 1, 2026  —  3 days left",
       "start_date": "Oct 4, 2026",
       "status": "running",
       "challenge_days": "29",
@@ -107,7 +35,7 @@
       ],
       "reward": "Another NYC mile? Let’s make it count. Zappos is cheering you on. 📣",
       "club": "https://www.strava.com/clubs/1128091",
-      "participants": "42584"
+      "participants": "42773"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6410",
@@ -115,7 +43,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6410/6410-logo.png",
       "name": "Market Miles™ by Schwab: UES",
       "description": "Earn your Market Miles™ by Schwab badge and test your financial fitness!",
-      "time": "Oct 30, 2026 to Nov 26, 2026  —  2 days until start",
+      "time": "Oct 30, 2026 to Nov 26, 2026  —  1 day until start",
       "start_date": "Oct 30, 2026",
       "status": "upcoming",
       "challenge_days": "28",
@@ -124,7 +52,7 @@
          "Run"
       ],
       "reward": "Earn your Market Miles™ by Schwab: UES badge and put your financial fitness to the test.",
-      "participants": "1250"
+      "participants": "1305"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6413",
@@ -132,7 +60,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6413/6413-logo.png",
       "name": "Sweat to your soundtrack",
       "description": "Fuel every workout with sound. Stay active and earn a Bose reward.",
-      "time": "Oct 1, 2026 to Nov 12, 2026  —  15 days left",
+      "time": "Oct 1, 2026 to Nov 12, 2026  —  14 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "43",
@@ -196,7 +124,7 @@
          "Yoga"
       ],
       "reward": "Complete the challenge. Move to your music for the length of a 45-minute album for a shot at 10% off Bose products.",
-      "participants": "129342"
+      "participants": "130412"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6414",
@@ -204,7 +132,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6414/6414-logo.png",
       "name": "Market Miles™ by Schwab: Riverside Park",
       "description": "Earn your Market Miles™ by Schwab badge and test your financial fitness!",
-      "time": "Oct 30, 2026 to Nov 26, 2026  —  2 days until start",
+      "time": "Oct 30, 2026 to Nov 26, 2026  —  1 day until start",
       "start_date": "Oct 30, 2026",
       "status": "upcoming",
       "challenge_days": "28",
@@ -213,7 +141,7 @@
          "Run"
       ],
       "reward": "Earn your Market Miles™ by Schwab: Riverside Park badge and put your financial fitness to the test.",
-      "participants": "1073"
+      "participants": "1121"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6416",
@@ -221,7 +149,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6416/6416-logo.png",
       "name": "Market Miles™ by Schwab: BK Heights",
       "description": "Earn your Market Miles™ by Schwab badge and test your financial fitness!",
-      "time": "Oct 30, 2026 to Nov 26, 2026  —  2 days until start",
+      "time": "Oct 30, 2026 to Nov 26, 2026  —  1 day until start",
       "start_date": "Oct 30, 2026",
       "status": "upcoming",
       "challenge_days": "28",
@@ -230,7 +158,7 @@
          "Run"
       ],
       "reward": "Earn your Market Miles™ by Schwab: BK Heights badge and put your financial fitness to the test.",
-      "participants": "1031"
+      "participants": "1077"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6418",
@@ -238,7 +166,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6418/6418-logo.png",
       "name": "Nike After Dark Tour Mumbai Challenge",
       "description": "Log 20 runs in 8 weeks for a chance to win an After Dark Tour race bib.",
-      "time": "Sep 19, 2026 to Nov 13, 2026  —  16 days left",
+      "time": "Sep 19, 2026 to Nov 13, 2026  —  15 days left",
       "start_date": "Sep 19, 2026",
       "status": "running",
       "challenge_days": "56",
@@ -250,7 +178,7 @@
       ],
       "reward": "Complete the challenge to earn your digital badge and a chance to win an After Dark Tour Mumbai 10K race bib.",
       "club": "https://www.strava.com/clubs/1136931",
-      "participants": "85113"
+      "participants": "85430"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6419",
@@ -258,7 +186,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6419/6419-logo.png",
       "name": "Market Miles™ by Schwab: UWS",
       "description": "Earn your Market Miles™ by Schwab badge and test your financial fitness!",
-      "time": "Oct 30, 2026 to Nov 26, 2026  —  2 days until start",
+      "time": "Oct 30, 2026 to Nov 26, 2026  —  1 day until start",
       "start_date": "Oct 30, 2026",
       "status": "upcoming",
       "challenge_days": "28",
@@ -267,7 +195,7 @@
          "Run"
       ],
       "reward": "Earn your Market Miles™ by Schwab: UWS badge and put your financial fitness to the test.",
-      "participants": "1168"
+      "participants": "1226"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6421",
@@ -275,7 +203,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6421/6421-logo.png",
       "name": "Market Miles™ by Schwab: East River",
       "description": "Earn your Market Miles™ by Schwab badge and test your financial fitness!",
-      "time": "Oct 30, 2026 to Nov 26, 2026  —  2 days until start",
+      "time": "Oct 30, 2026 to Nov 26, 2026  —  1 day until start",
       "start_date": "Oct 30, 2026",
       "status": "upcoming",
       "challenge_days": "28",
@@ -284,7 +212,7 @@
          "Run"
       ],
       "reward": "Earn your Market Miles™ by Schwab: East River badge and put your financial fitness to the test.",
-      "participants": "1075"
+      "participants": "1122"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6423",
@@ -292,7 +220,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6423/6423-logo.png",
       "name": "TUDOR - Dare to Run or Ride",
       "description": "Move for 240 minutes for a chance to win TUDOR's New Sport Kit.",
-      "time": "Nov 2, 2026 to Nov 29, 2026  —  5 days until start",
+      "time": "Nov 2, 2026 to Nov 29, 2026  —  4 days until start",
       "start_date": "Nov 2, 2026",
       "status": "upcoming",
       "challenge_days": "28",
@@ -308,7 +236,7 @@
       ],
       "reward": "Complete 240 minutes to earn a digital badge and enter to win TUDOR’s New Sport Kit",
       "club": "https://www.strava.com/clubs/2379418",
-      "participants": "4528"
+      "participants": "4629"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6432",
@@ -316,7 +244,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6432/6432-logo.png",
       "name": "Heidi: Find your Freedom Challenge",
       "description": "Get moving, get rewarded: £100 off, plus a chance to win a £3,000 ski trip",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  3 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  2 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -381,7 +309,7 @@
       ],
       "reward": "Complete the challenge for £100 off your next Heidi trip, plus a shot at winning a £3,000 dream ski holiday (open to UK \\u0026 Ireland participants)",
       "club": "https://www.strava.com/clubs/2273604",
-      "participants": "104312"
+      "participants": "104417"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6433",
@@ -389,7 +317,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6433/6433-logo.png",
       "name": "CLIF Built in Bites Challenge",
       "description": "Complete 330 minutes of activity and earn 30% off* Clifbar.com",
-      "time": "Sep 22, 2026 to Nov 3, 2026  —  6 days left",
+      "time": "Sep 22, 2026 to Nov 3, 2026  —  5 days left",
       "start_date": "Sep 22, 2026",
       "status": "running",
       "challenge_days": "43",
@@ -454,7 +382,7 @@
       ],
       "reward": "Complete the challenge to earn the Built in Bites badge and 30% off* sitewide on Clifbar.com",
       "club": "https://www.strava.com/clubs/240524",
-      "participants": "167571"
+      "participants": "168031"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6438",
@@ -462,7 +390,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6438/6438-logo.png",
       "name": "Market Miles™ by Schwab: Williamsburg",
       "description": "Earn your Market Miles™ by Schwab badge and test your financial fitness!",
-      "time": "Oct 30, 2026 to Nov 26, 2026  —  2 days until start",
+      "time": "Oct 30, 2026 to Nov 26, 2026  —  1 day until start",
       "start_date": "Oct 30, 2026",
       "status": "upcoming",
       "challenge_days": "28",
@@ -471,7 +399,7 @@
          "Run"
       ],
       "reward": "Earn your Market Miles™ by Schwab: Williamsburg badge and put your financial fitness to the test.",
-      "participants": "4896"
+      "participants": "4964"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6445",
@@ -479,7 +407,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6445/6445-logo.png",
       "name": "October Flexibility Challenge",
       "description": "Inhale. Exhale. Flow. Make time for yourself to stretch this month.",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  3 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  2 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -509,7 +437,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "258911"
+      "participants": "259968"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6446",
@@ -517,7 +445,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6446/6446-logo.png",
       "name": "October 20 Hour Swim Challenge",
       "description": "Our longest swimming challenge. Are you ready?",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  3 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  2 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -527,7 +455,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "117801"
+      "participants": "118284"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6447",
@@ -535,7 +463,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6447/6447-logo.png",
       "name": "October Walk 30K Steps Challenge",
       "description": "One foot, then the other. Push yourself to walk 30 km this month.",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  3 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  2 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -547,7 +475,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "569758"
+      "participants": "571515"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6448",
@@ -555,7 +483,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6448/6448-logo.png",
       "name": "October 10K Challenge",
       "description": "Lace 'em up, run 'em out",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  3 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  2 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -568,7 +496,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "930992"
+      "participants": "932882"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6449",
@@ -576,7 +504,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6449/6449-logo.png",
       "name": "October Half Marathon Challenge",
       "description": "Ready for a long run?",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  3 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  2 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -589,7 +517,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "568694"
+      "participants": "569886"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6450",
@@ -597,7 +525,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6450/6450-logo.png",
       "name": "October Elevation Challenge",
       "description": "We're going up, up, up!",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  3 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  2 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -613,7 +541,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "501874"
+      "participants": "503604"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6451",
@@ -621,7 +549,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6451/6451-logo.png",
       "name": "October Run 100K Challenge",
       "description": "One month. 100 kilometers. You in?",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  3 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  2 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -634,7 +562,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "695485"
+      "participants": "697093"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6452",
@@ -642,7 +570,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6452/6452-logo.png",
       "name": "October Cycling Elevation Challenge",
       "description": "Go vertical",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  3 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  2 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -656,7 +584,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "262844"
+      "participants": "263570"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6453",
@@ -664,7 +592,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6453/6453-logo.png",
       "name": "October Gran Fondo Challenge",
       "description": "100 kms. One ride. Let's go!",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  3 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  2 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -678,7 +606,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "317052"
+      "participants": "317819"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6454",
@@ -686,7 +614,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6454/6454-logo.png",
       "name": "October Ride 200K Challenge",
       "description": "One month. 200 km. You in?",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  3 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  2 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -701,7 +629,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "436209"
+      "participants": "437293"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6455",
@@ -709,7 +637,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6455/6455-logo.png",
       "name": "October Ride 800K Challenge",
       "description": "One month. 800 km. You in?",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  3 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  2 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -724,7 +652,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "269069"
+      "participants": "269807"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6456",
@@ -732,7 +660,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6456/6456-logo.png",
       "name": "October 180 Minute Sweat Challenge",
       "description": "Push it! Join our longest single-activity challenge.",
-      "time": "Oct 1, 2026 to Oct 31, 2026  —  3 days left",
+      "time": "Oct 1, 2026 to Oct 31, 2026  —  2 days left",
       "start_date": "Oct 1, 2026",
       "status": "running",
       "challenge_days": "31",
@@ -797,6 +725,6 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "909239"
+      "participants": "911824"
    }
 ]
